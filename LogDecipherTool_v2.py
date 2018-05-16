@@ -44,7 +44,7 @@ num_lines = 0
 num_print_jobs = 0
 
 
-files = (glob.glob("*.txt"))
+files = (glob.glob("Log310F_*.txt"))
 
 ####################
 # Helper Functions #
